@@ -1,6 +1,12 @@
 # DNN Invisible Container
 Invisible DNN Container - which is what is usually needed on most modern web sites. 
 
+1. It works perfectly with DNN Bootstrap Skins like:
+  1. [DNN Bootstrap3 Instant](https://github.com/2sic/dnn-theme-bootstrap3-instant)
+  2. [DNN Bootstrap3 Single Pager](https://github.com/2sic/dnn-theme-bootstrap3-single-pager)
+2. And it's awesome together with professional content-templates like
+  1. [Standard Bootstrap3 Content Blocks/Templates](https://github.com/2sic/2sxc-content-bootstrap3)
+
 ## Background
 If you want to create a good looking website, then the container of each module must be invisible. This is the ideal container for that. 
 
