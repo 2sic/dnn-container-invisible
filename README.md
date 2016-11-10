@@ -18,9 +18,12 @@ The following 2 examples assume you want to put it into \_default.
 This assumes that you already have git installed on your pc and that you kind of have an idea what git is :)
 
 1. In your file explorer, go to `/Portals/_default/`, then shift-right-click on the `Containers` folder and choose _Open Command Window Here_. You should now have a command-line on that folder. 
-2. Run this command: `git clone https://github.com/2sic/dnn-container-invisible "Invisible container"`
+2. Run this command: 
+```
+git clone https://github.com/2sic/dnn-container-invisible "Invisible container"
+```
 
-This will automatically get the latest copy of this container and place it in the right folder.
+This will automatically get the latest copy of this container and place it in the right folder. You can now use it in any layout you want. 
 
 ## Installing using Windows File Explorer
 
@@ -30,5 +33,4 @@ This will automatically get the latest copy of this container and place it in th
 3. Paste the ascx-file from [this package](https://github.com/2sic/dnn-container-invisible/archive/master.zip) into that folder. You should now have  
 `/Portals/_default/Containers/Invisible container/default.ascx`
 
-You're ready to use it in your solution :)
-
+You can now use the container in any layout you want. 
